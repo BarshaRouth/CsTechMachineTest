@@ -90,3 +90,5 @@ Contributions and improvements are welcome! Feel free to open issues or submit p
 ### 📞 Contact
 Your Name – barsharouth7@gmail.com
 Project repository: https://github.com/BarshaRouth/CsTechMachineTest
+
+---
